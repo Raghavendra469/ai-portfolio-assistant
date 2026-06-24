@@ -25,8 +25,10 @@ model_name="sentence-transformers/all-MiniLM-L6-v2"
 
 # Vector DB
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 DB_PATH = os.path.join(
-    os.path.dirname(__file__),
+    BASE_DIR,
     "vector_db"
 )
 

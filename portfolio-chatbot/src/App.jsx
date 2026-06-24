@@ -2,8 +2,8 @@ import { useState, useRef, useEffect, useCallback } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import "./App.css";
+import { API_URL } from "./config";
 
-const API_URL = "http://localhost:8000/chat";
 const STORAGE_KEY = "raghav_ai_chat_history";
 
 const QUICK_QUESTIONS = [
