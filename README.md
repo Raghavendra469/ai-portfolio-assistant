@@ -263,7 +263,7 @@ Throughout development I encountered multiple issues:
 
 Problem:
 
-GOOGLE_API_KEY returned None.
+GROQ_API_KEY returned None.
 
 Resolution:
 
