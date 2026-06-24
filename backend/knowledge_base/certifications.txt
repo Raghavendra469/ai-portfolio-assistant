@@ -1,0 +1,11 @@
+Certifications:
+
+* AWS Certified Developer Associate
+* Azure AI Fundamentals (AI-900)
+* Cisco DevNet Associate
+* Google Developers Machine Learning and Deep Learning Externship
+* HackerRank Python Certification
+* HackerRank SQL Certification
+* AWS Academy Cloud Foundations
+* Java Full Stack Certification
+* Problem Solving and Data Structures using Python

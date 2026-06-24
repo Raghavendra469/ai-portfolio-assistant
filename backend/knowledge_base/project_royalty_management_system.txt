@@ -1,0 +1,47 @@
+Project Name: Royalty Management System
+
+Project Type:
+Full Stack Web Application
+
+Description:
+The Royalty Management System is a full-stack web application developed to manage royalty-related operations, records, transactions, and reporting workflows. The system centralizes data management and provides an efficient platform for tracking royalty information and operational activities.
+
+Technologies Used:
+
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+* REST APIs
+
+Features:
+
+* User authentication and authorization
+* Dashboard and analytics
+* Record management
+* Transaction tracking
+* Data visualization
+* Search and filtering
+* Role-based access control
+* Reporting capabilities
+
+Responsibilities:
+
+* Frontend development using React.js
+* Backend API development using Node.js and Express.js
+* Database integration using MongoDB
+* REST API implementation
+* Feature development and testing
+* Bug fixing and performance optimization
+
+Key Learnings:
+
+* MERN Stack Development
+* API Design
+* Database Management
+* Authentication and Authorization
+* Full Stack Application Development
+* Agile Development Practices
+
+Role:
+Contributed to both frontend and backend development, API integration, database operations, and feature implementation.

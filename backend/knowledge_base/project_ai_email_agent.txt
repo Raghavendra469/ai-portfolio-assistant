@@ -1,0 +1,52 @@
+Project Name: AI Email Automation Agent
+
+Project Type:
+Personal AI Project
+
+Description:
+The AI Email Automation Agent is an intelligent email management system designed to reduce the effort required to read, classify, and respond to emails. The system automatically analyzes incoming emails, determines their priority and category, generates context-aware responses, and notifies the user through WhatsApp before sending replies.
+
+Problem Solved:
+Managing large volumes of emails manually can be time-consuming. This project helps users prioritize important emails and generate AI-assisted responses efficiently.
+
+Technologies Used:
+
+* Python
+* LangGraph
+* LangChain
+* Groq LLM
+* Gmail API
+* WhatsApp Integration
+* FastAPI
+* Supabase
+
+Workflow:
+Email Received
+→ Email Classification
+→ Information Extraction
+→ Response Generation
+→ Human Approval
+→ WhatsApp Notification
+→ Email Delivery
+
+Features:
+
+* Email classification
+* Priority detection
+* AI-generated email responses
+* Human approval workflow
+* WhatsApp notifications
+* Context-aware reply generation
+* Automated email processing
+
+Key Learnings:
+
+* Agentic AI workflows
+* LangGraph state management
+* LLM orchestration
+* Tool integration
+* Human-in-the-loop systems
+* Workflow automation
+
+Role:
+Designed and developed the complete workflow, integrated APIs, implemented LangGraph nodes, and built the automation pipeline.

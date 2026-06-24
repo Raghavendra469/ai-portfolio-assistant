@@ -1,0 +1,32 @@
+Name: Raghavendra Kodavalla
+
+Professional Identity:
+Raghavendra Kodavalla is an AI Engineer and Full Stack Developer with experience in building enterprise applications, AI-powered workflows, and intelligent automation systems.
+
+Education Background:
+He completed a Bachelor of Technology (B.Tech) in Artificial Intelligence and Data Science from Seshadri Rao Gudlavalleru Engineering College between 2020 and 2024.
+
+Professional Journey:
+During his academic journey, he gained exposure to Machine Learning, Deep Learning, Data Science, and Artificial Intelligence. He completed a Machine Learning and Deep Learning internship through SmartInternz and Google Developers.
+
+After graduation, he underwent training in Full Stack Web Development and expanded his skills in frontend and backend engineering.
+
+He currently works as an Associate Engineer at Brillio Technologies, where he contributes to enterprise-scale applications, REST APIs, frontend development, backend services, monitoring systems, and AI-powered automation workflows.
+
+Areas of Interest:
+
+* Artificial Intelligence
+* Generative AI
+* Agentic AI
+* Retrieval-Augmented Generation (RAG)
+* LangGraph
+* LangChain
+* Enterprise Automation
+* Cloud Technologies
+* Full Stack Development
+
+Current Learning Focus:
+Raghavendra is actively learning advanced RAG systems, AI agents, Agentic AI architectures, MCP (Model Context Protocol), and Multi-Agent Systems.
+
+Career Goal:
+His long-term goal is to become an AI Engineer specializing in intelligent systems, AI agents, and enterprise-scale AI applications.

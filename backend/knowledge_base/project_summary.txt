@@ -1,0 +1,15 @@
+Raghavendra Kodavalla has worked on the following major projects:
+
+1. AI Email Automation Agent
+   - Agentic AI workflow for email classification, response generation, and WhatsApp notifications.
+
+2. AI Portfolio Assistant
+   - RAG-based chatbot that answers questions about Raghavendra's skills, experience, certifications, and projects.
+
+3. Royalty Management System
+   - MERN stack application for managing royalty operations, transactions, and reporting.
+
+4. Smart QR Code Generator
+   - Flask-based web application for generating QR codes for URLs, phone numbers, emails, and WhatsApp contacts.
+
+These are the primary projects developed by Raghavendra Kodavalla.

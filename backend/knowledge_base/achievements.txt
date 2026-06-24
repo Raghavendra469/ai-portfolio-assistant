@@ -1,0 +1,10 @@
+Achievements:
+
+* Received Silver Star Award at Brillio Technologies for contributions and performance.
+* Published research work titled:
+  "Deep Learning-Based MRI Analysis for Early Brain Tumor Detection."
+* Participated in Smart India Hackathon.
+* Participated in multiple technical competitions during engineering.
+* Completed Machine Learning and Deep Learning Externship through Google Developers and SmartInternz.
+* Successfully delivered enterprise-scale applications for a major telecommunications client.
+* Built AI automation systems using LangGraph and Large Language Models.

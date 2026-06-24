@@ -1,0 +1,72 @@
+Programming Languages:
+
+* Python
+* Java
+* JavaScript
+* SQL
+
+Frontend Technologies:
+
+* HTML5
+* CSS3
+* React.js
+* Tailwind CSS
+* Material UI
+
+Backend Technologies:
+
+* Node.js
+* Express.js
+* Flask
+* FastAPI
+* Spring Boot
+* REST APIs
+* Microservices
+
+Databases:
+
+* MySQL
+* MongoDB
+* Supabase
+
+Artificial Intelligence and Machine Learning:
+
+* Machine Learning
+* Deep Learning
+* LangChain
+* LangGraph
+* LLM Applications
+* Agentic Workflows
+* Prompt Engineering
+* AI Automation
+* Human-in-the-Loop Systems
+
+Cloud and DevOps:
+
+* AWS EC2
+* AWS S3
+* AWS Lambda
+* Azure AI
+* Google Cloud
+* Git
+* GitHub
+* CI/CD Pipelines
+* Render
+* Railway
+
+Software Engineering Practices:
+
+* Agile Scrum
+* SDLC
+* Test Driven Development
+* Observability
+* RBAC
+* API Design
+
+Currently Learning:
+
+* Advanced RAG Systems
+* Multi-Agent Systems
+* MCP (Model Context Protocol)
+* RAG Evaluation
+* Enterprise AI Architectures

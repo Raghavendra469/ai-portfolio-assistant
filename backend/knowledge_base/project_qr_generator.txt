@@ -1,0 +1,44 @@
+Project Name: Smart QR Code Generator
+
+Project Type:
+Personal Web Application
+
+Description:
+The Smart QR Code Generator is a web application that allows users to generate QR codes for multiple types of information, including URLs, phone numbers, email links, and WhatsApp contacts.
+
+Problem Solved:
+Users often need a quick and convenient way to share information. This application converts commonly used contact and communication details into scannable QR codes.
+
+Technologies Used:
+
+* Python
+* Flask
+* HTML
+* CSS
+* JavaScript
+
+Features:
+
+* URL QR code generation
+* Phone number QR code generation
+* Email QR code generation
+* WhatsApp QR code generation
+* QR code download functionality
+* Simple and responsive user interface
+
+Use Cases:
+
+* Sharing websites
+* Sharing contact information
+* Quick communication through WhatsApp
+* Easy access to resources through QR scanning
+
+Key Learnings:
+
+* Flask development
+* QR code generation libraries
+* Frontend and backend integration
+* User interface design
+
+Role:
+Designed and developed the complete application, implemented QR code generation functionality, and created the user interface.

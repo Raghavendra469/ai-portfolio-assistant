@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-huggingface
+langchain-text-splitters
+langchain-chroma
+chromadb
+sentence-transformers
+streamlit
+python-dotenv
+unstructured
+fastapi
+uvicorn
+pydantic
+langchain-groq
+rank-bm25

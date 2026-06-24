@@ -1,0 +1,57 @@
+Project Name: AI Portfolio Assistant
+
+Project Type:
+Personal AI Project
+
+Status:
+Currently In Development
+
+Description:
+AI Portfolio Assistant is a Retrieval-Augmented Generation (RAG) application that acts as a personal AI assistant capable of answering questions about Raghavendra Kodavalla's experience, projects, certifications, skills, achievements, and career journey.
+
+Problem Solved:
+Traditional resumes provide static information. This project enables recruiters, hiring managers, and professionals to interactively learn about Raghavendra through natural language conversations.
+
+Technologies Used:
+
+* Python
+* LangChain
+* ChromaDB
+* HuggingFace Embeddings
+* Google Gemini
+* FastAPI
+* React
+* AWS
+
+Architecture:
+Knowledge Base
+→ Text Chunking
+→ Embedding Generation
+→ ChromaDB Vector Store
+→ Similarity Search
+→ Gemini LLM
+→ Response Generation
+
+Planned Features:
+
+* Resume chat
+* Project discovery
+* Skills exploration
+* Certification lookup
+* Conversational memory
+* Query rewriting
+* Hybrid search
+* Reranking
+* Agentic workflows
+
+Key Learnings:
+
+* Retrieval-Augmented Generation
+* Vector databases
+* Embedding models
+* LLM integration
+* Semantic search
+* AI application architecture
+
+Role:
+Designed and developed the complete RAG architecture, knowledge base, retrieval pipeline, and chatbot experience.

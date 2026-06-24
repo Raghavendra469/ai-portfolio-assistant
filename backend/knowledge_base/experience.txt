@@ -1,0 +1,63 @@
+Current Company:
+Brillio Technologies Pvt. Ltd.
+
+Role:
+Associate Engineer
+
+Duration:
+December 2024 - Present
+
+Location:
+Bengaluru, India
+
+Client:
+Verizon
+
+Total Work expeiance:
+2 years including internship from SmartInternz
+Brillio experiance - 1.5 years
+smartInternz - 0.5 years
+
+Responsibilities:
+
+* Developed and modernized enterprise applications.
+* Built scalable dashboards and vendor management systems.
+* Designed and integrated RESTful APIs.
+* Developed reusable React components and frontend architectures.
+* Contributed to backend services using Spring Boot and Node.js.
+* Improved application performance and maintainability.
+* Worked with monitoring and alerting systems.
+* Participated in Agile development practices.
+* Collaborated with cross-functional teams.
+
+AI Experience:
+
+* Contributed to AI-powered workflow automation initiatives.
+* Worked on LangGraph-based invoice automation workflows.
+* Implemented human-in-the-loop approval systems.
+* Participated in enterprise AI solution development.
+
+Previous Internship:
+Organization: SmartInternz / Google Developers
+
+Domain:
+Machine Learning and Deep Learning
+
+Activities:
+
+* Learned supervised and unsupervised learning.
+* Built machine learning models.
+* Worked on model training and evaluation.
+* Applied deep learning concepts to practical datasets.
+
+Web Development Internship:
+Organization: Brainovision Solutions India Pvt. Ltd.
+
+Role:
+Web Development Intern
+
+Responsibilities:
+
+* Developed responsive web applications.
+* Worked with HTML, CSS, and JavaScript.
+* Learned frontend design and development concepts.

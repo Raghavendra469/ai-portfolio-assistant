@@ -1,0 +1,22 @@
+Short-Term Goals:
+
+* Become a highly skilled AI Engineer.
+* Build production-grade AI systems.
+* Master LangChain and LangGraph.
+* Gain expertise in enterprise AI solutions.
+
+Current Learning Goals:
+
+* Advanced RAG Systems
+* Agentic AI
+* MCP (Model Context Protocol)
+* Multi-Agent Systems
+* AI Evaluation Frameworks
+* Production AI Deployments
+
+Long-Term Goals:
+
+* Design intelligent enterprise AI platforms.
+* Build scalable AI agents and automation systems.
+* Lead AI engineering initiatives.
+* Contribute to the development of advanced AI applications that solve real-world business problems.
